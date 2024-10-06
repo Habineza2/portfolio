@@ -1,0 +1,14 @@
+.about-page {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+.about-page h1 {
+    color: #333;
+}
+
+.about-page ul {
+    list-style-type: disc;
+    margin-left: 20px;
+}
